@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201622733579",
+    "project_id": "assignment2-5a344",
+    "storage_bucket": "assignment2-5a344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201622733579:android:4dc91c07f8f54222ea180e",
+        "android_client_info": {
+          "package_name": "com.muhammadtaimur.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201622733579-rqt3f9q3ph2ihroq31anbhiaf51bkang.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-kaUunJi0coHschBVEStyc7wZBpzuboQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201622733579-rqt3f9q3ph2ihroq31anbhiaf51bkang.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
